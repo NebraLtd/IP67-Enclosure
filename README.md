@@ -1,3 +1,4 @@
+<img width="882" alt="nebra-ip67-github-banner@2x" src="https://user-images.githubusercontent.com/1878314/74836591-96f1be80-5317-11ea-8c3c-33d82100bfe6.png">
 # IP67-Enclosure
 Resources for the Nebra IP67 Die Cast Enclosure
 
@@ -33,7 +34,7 @@ This expansion board is designed to fit inside our Nebra IP67 waterproof/weather
 
 However, this board allows you to mount any other three HATs you'd like! The possibilities are endless. Swap out and switch HATs to your heart's content.
 
-The board features 4 x 40 Pin headers - the standard header used on a Raspberry Pi. Three of these can be used to stack Raspberry Pi HATs and for the fourth you can connect a GPIO ribbon cable from it to the Raspberry Pi (as seen in the picture below).
+The board features 4 x 40 Pin headers - the standard header used on a Raspberry Pi. Three of these can be used to stack Raspberry Pi HATs and for the fourth you can connect a GPIO ribbon cable from it to the Raspberry Pi.
 ![IP67-HAT-Holder-Infographic_480x480-2](https://user-images.githubusercontent.com/1878314/74328473-e53a1700-4d85-11ea-84b2-4860188d73fe.jpg)
 
 ### Create your own Raspberry Pi LoRa Gateway powered over ethernet with a battery backup!
